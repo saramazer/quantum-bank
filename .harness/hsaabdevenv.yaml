@@ -1,5 +1,5 @@
 environment:
-  name: hsaab-dev-env
+  name: smazer-dev-env
   identifier: hsaabdevenv
   description: ""
   tags: {}
