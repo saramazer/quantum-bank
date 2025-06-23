@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: quantum-bank
   annotations:
-    github.com/project-slug: hsaab/quantum-bank
+    github.com/project-slug: smazer/quantum-bank
 spec:
   type: other
   lifecycle: unknown
