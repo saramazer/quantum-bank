@@ -1,6 +1,6 @@
 environment:
-  name: smazer-dev-env
-  identifier: hsaabdevenv
+  name: smazer-preprod
+  identifier: smazerpreprod
   description: ""
   tags: {}
   type: PreProduction
