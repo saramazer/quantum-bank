@@ -1,2 +1,2 @@
-image: smazer/quantum-bank-backend:<+pipeline.sequenceId>
+image: saramazerharness/quantum-bank-backend:<+pipeline.sequenceId>
 
